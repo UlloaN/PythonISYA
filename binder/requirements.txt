@@ -1,8 +1,9 @@
 traitlets>=4.3.1
+numpy
 ipython
 pandas
 vdom
 matplotlib
-astropy
-fitsio
 jupyterlab_launcher>=0.5.0
+fitsio
+astropy
