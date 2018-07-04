@@ -21,7 +21,7 @@ Basic Python at ISYA
 * Modules.
 
 
-# Lecture 3. Numpy and Matplotlib
+## Lecture 3. Numpy and Matplotlib
 
 * Numpy arrays. Slicing.
 * Reading and writing files.
