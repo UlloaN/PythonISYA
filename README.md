@@ -53,3 +53,10 @@ Basic Python at ISYA
 * Makefiles.
 * Git and Github.
 * Building a reproducible data processing workflow.
+
+
+### References
+* https://github.com/PythonBootcampUniandes/notas-de-clase
+* https://github.com/ComputoCienciasUniandes/python-bootcamp
+* https://github.com/astro4dev/OAD-Data-Science-Toolkit
+* https://github.com/saint-germain/astropy
