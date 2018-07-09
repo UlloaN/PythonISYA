@@ -6,11 +6,11 @@ Basic Python at ISYA
 
 ## Lecture 1. Basic Python I
 
-00 Binder. Python interpreter. Jupyterlab.
-01 Numbers and basic math.
-02 Lists.
-03 Dictionaries.
-04 Iteration.
+00 Binder. Python interpreter. Jupyterlab.  
+01 Numbers and basic math.  
+02 Lists.  
+03 Dictionaries.  
+04 Iteration.  
 
 ## Lecture 2. Basic Python II
 
