@@ -6,20 +6,18 @@ Basic Python at ISYA
 
 ## Lecture 1. Basic Python I
 
-* The python interpreter.
-* Jupyter notebook.
-* Numbers.
-* Lists.
-* Dictionaries.
-* Iteration.
+00 Binder. Python interpreter. Jupyterlab.
+01 Numbers and basic math.
+02 Lists.
+03 Dictionaries.
+04 Iteration.
 
 ## Lecture 2. Basic Python II
 
 * Control structures.
 * Functions.
 * Objects.
-* Modules.
-
+* Modules
 
 ## Lecture 3. Numpy and Matplotlib
 
